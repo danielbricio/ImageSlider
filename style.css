@@ -8,10 +8,20 @@ body{
     background-color: black;
     overflow: hidden;
 }
+.slide-container .titulo{
+    height: 80vh;
+    width: 100%;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    color: aliceblue;
+    
+}
 
 .slide-container{
     width: 100%;
-    height: 85%;
+    height: 100vh;
     display: flex;
     align-items: center;
     overflow: hidden;
